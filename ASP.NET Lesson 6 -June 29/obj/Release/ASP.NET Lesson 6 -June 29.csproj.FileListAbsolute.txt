@@ -27,3 +27,5 @@ C:\Users\Justin\documents\visual studio 2013\Projects\ASP.NET Lesson 6 -June 29\
 C:\Users\Justin\documents\visual studio 2013\Projects\ASP.NET Lesson 6 -June 29\ASP.NET Lesson 6 -June 29\bin\Newtonsoft.Json.xml
 C:\Users\Justin\documents\visual studio 2013\Projects\ASP.NET Lesson 6 -June 29\ASP.NET Lesson 6 -June 29\obj\Release\ASP.NET Lesson 5.dll
 C:\Users\Justin\documents\visual studio 2013\Projects\ASP.NET Lesson 6 -June 29\ASP.NET Lesson 6 -June 29\obj\Release\ASP.NET Lesson 5.pdb
+C:\Users\Justin\documents\visual studio 2013\Projects\ASP.NET Lesson 6 -June 29\ASP.NET Lesson 6 -June 29\bin\Elmah.dll
+C:\Users\Justin\documents\visual studio 2013\Projects\ASP.NET Lesson 6 -June 29\ASP.NET Lesson 6 -June 29\obj\Release\ASP.NET Lesson 6 -June 29.csprojResolveAssemblyReference.cache

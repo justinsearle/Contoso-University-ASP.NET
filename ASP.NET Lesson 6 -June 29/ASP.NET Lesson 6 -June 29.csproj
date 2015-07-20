@@ -132,6 +132,7 @@
       <LastGenOutput>Contoso.cs</LastGenOutput>
     </Content>
     <None Include="Properties\PublishProfiles\ASPNETLesson5.pubxml" />
+    <None Include="Properties\PublishProfiles\contosouniversity-lesson11.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
